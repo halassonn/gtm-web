@@ -64,11 +64,12 @@ module.exports = {
                         //'Silahkan verifikasi email dengan mengklik link berikut:</br> ' +
                        // '<a href=http://' + req.headers.host + '/api/reset/' + kode + '>Konfirmasi</a>'
                 };
-                console.log('step 3')
+               
                 smtpTransport.sendMail(mailOptions, function (err) {
                     //req.flash('SaveSuccess', 'Kode Reset Password telah dikirim ke ' + req.body.email);
                     if(err){
-                        return res.status(500).json({message:"No Internet Connection"});
+                        console.log('step 3',err)
+                        return res.status(500).json({message:err});
                     }
                     res.status(200).json({
                         message: 'Kode Reset Password telah dikirim ke ' + req.body.email

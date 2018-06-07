@@ -102,7 +102,7 @@ module.exports = {
                     if (err) {
                         user.remove();
                         return res.status(500).json({
-                            message: "No Internet Connection"
+                            message: err
                         });
                         
                     }
