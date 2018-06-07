@@ -28,9 +28,9 @@ router.route('/signup')
 .post( [validateBody(schemas.daftarSchema),validCaptcha()], UserController.signUp);
 
 router.route('/signin')
-//.post([validateBody(schemas.authSchema),validCaptcha() ],passwordSignIn,UserController.signIn);
-.post(validateBody(schemas.authSchema),UserController.captcha,passwordSignIn,UserController.signIn);
-
+.post([validateBody(schemas.authSchema),validCaptcha() ],passwordSignIn,UserController.signIn);
+//.post(validateBody(schemas.authSchema),UserController.captcha,passwordSignIn,UserController.signIn);
+//.post(validateRequest)
 
 router.route('/oauth/google')
 .post(googleToken,UserController.googleOAuth);
