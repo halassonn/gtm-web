@@ -2,6 +2,9 @@
   "name": "dioriganda",
   "version": "1.0.0",
   "description": "Website PT Bpr Diori Ganda",
+  "engines": {
+    "node": "8.9.4"
+  },
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
@@ -30,6 +33,15 @@
   "devDependencies": {
     "nodemon": "1.17.4"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halassonn/gtm-web.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
   "author": "Halasson Gultom",
   "license": "MIT"
 }
