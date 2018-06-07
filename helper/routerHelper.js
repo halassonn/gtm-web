@@ -30,7 +30,7 @@ module.exports = {
             const result = Joi.validate(req.body, schema);
             if (result.error) {
                // return res.status(400).json(result.error);
-               throw res.status(400).json({messgae:"kolakla"})
+               return res.status(400).json(result.error);
             } else {
                 if (!req.value)
                     req.value = {};
