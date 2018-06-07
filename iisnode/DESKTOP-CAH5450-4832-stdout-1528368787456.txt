@@ -1,0 +1,61 @@
+Server listen at \\.\pipe\c602eff1-20c9-4eec-832a-4c2c05002e3f
+[0mGET / [32m200 [0m6.502 ms - 866[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [36m304 [0m3.859 ms - -[0m
+[0mGET /polyfills.1a5d8bfaa3b55259e369.bundle.js [36m304 [0m1.367 ms - -[0m
+[0mGET /inline.d54331bd02024ac6f47a.bundle.js [36m304 [0m3.966 ms - -[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [36m304 [0m6.327 ms - -[0m
+[0mGET /main.f4037e57997ebf8954dd.bundle.js [36m304 [0m9.026 ms - -[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [36m304 [0m0.789 ms - -[0m
+[0mGET /0.748c9a277992fc907b6c.chunk.js [36m304 [0m0.847 ms - -[0m
+[0mGET /assets/i18n/en.json [36m304 [0m1.019 ms - -[0m
+[0mGET /assets/images/slider1.jpg [36m304 [0m1.442 ms - -[0m
+[0mGET /assets/images/slider3.jpg [36m304 [0m1.854 ms - -[0m
+[0mGET /assets/images/slider2.jpg [36m304 [0m2.219 ms - -[0m
+[0mGET /assets/images/logo.png [36m304 [0m2.867 ms - -[0m
+connected to database mongodb://localhost:27017/test3
+[0mGET /api/menu [36m304 [0m624.670 ms - -[0m
+[0mGET /fontawesome-webfont.af7ae505a9eed503f8b8.woff2?v=4.7.0 [36m304 [0m0.381 ms - -[0m
+[0mGET /api/menu [36m304 [0m1008.779 ms - -[0m
+req params undefined
+req params 
+[0mGET /api/page/5b175a8dd010c63540b39997 [36m304 [0m7.539 ms - -[0m
+[0mGET / [32m200 [0m1.528 ms - 866[0m
+[0mGET /inline.d54331bd02024ac6f47a.bundle.js [32m200 [0m1.654 ms - 1395[0m
+[0mGET /polyfills.1a5d8bfaa3b55259e369.bundle.js [32m200 [0m2.172 ms - 59684[0m
+[0mGET /main.f4037e57997ebf8954dd.bundle.js [32m200 [0m2.088 ms - 585699[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [32m200 [0m0.832 ms - 247259[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [32m200 [0m1.232 ms - 937121[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [32m200 [0m1.856 ms - 1716408[0m
+[0mGET /0.748c9a277992fc907b6c.chunk.js [32m200 [0m1.028 ms - 156571[0m
+[0mGET /assets/i18n/en.json [32m200 [0m0.823 ms - 857[0m
+[0mGET /api/menu [36m304 [0m4.762 ms - -[0m
+[0mGET /api/menu [36m304 [0m3.035 ms - -[0m
+[0mGET /assets/images/slider1.jpg [32m200 [0m0.694 ms - 280620[0m
+[0mGET /assets/images/slider2.jpg [32m200 [0m2.286 ms - 55476[0m
+[0mGET /assets/images/logo.png [32m200 [0m2.317 ms - 84440[0m
+[0mGET /assets/images/slider3.jpg [32m200 [0m2.438 ms - 264935[0m
+[0mGET /fontawesome-webfont.af7ae505a9eed503f8b8.woff2?v=4.7.0 [32m200 [0m0.757 ms - 77160[0m
+req params undefined
+req params 
+[0mGET /api/page/5b175a8dd010c63540b39997 [36m304 [0m4.883 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m0.768 ms - 95869[0m
+[0mGET /administrator [32m200 [0m2.105 ms - 866[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [36m304 [0m0.507 ms - -[0m
+[0mGET /inline.d54331bd02024ac6f47a.bundle.js [36m304 [0m0.553 ms - -[0m
+[0mGET /polyfills.1a5d8bfaa3b55259e369.bundle.js [36m304 [0m1.021 ms - -[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [36m304 [0m0.653 ms - -[0m
+[0mGET /main.f4037e57997ebf8954dd.bundle.js [36m304 [0m1.192 ms - -[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [36m304 [0m0.469 ms - -[0m
+[0mGET /0.748c9a277992fc907b6c.chunk.js [36m304 [0m0.451 ms - -[0m
+[0mGET /index/login [32m200 [0m1.314 ms - 866[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [36m304 [0m0.700 ms - -[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [32m200 [0m1.148 ms - 1716408[0m
+[0mGET /favicon.ico [32m200 [0m0.813 ms - 95869[0m
+[0mGET /administrator [32m200 [0m1.497 ms - 866[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [36m304 [0m1.426 ms - -[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [36m304 [0m2.685 ms - -[0m
+[0mGET /main.f4037e57997ebf8954dd.bundle.js [36m304 [0m1.514 ms - -[0m
+[0mGET /polyfills.1a5d8bfaa3b55259e369.bundle.js [36m304 [0m1.948 ms - -[0m
+[0mGET /inline.d54331bd02024ac6f47a.bundle.js [36m304 [0m2.701 ms - -[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [36m304 [0m0.621 ms - -[0m
+[0mGET /0.748c9a277992fc907b6c.chunk.js [36m304 [0m0.934 ms - -[0m

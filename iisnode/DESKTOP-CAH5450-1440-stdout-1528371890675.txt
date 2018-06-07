@@ -1,0 +1,68 @@
+Server listen at \\.\pipe\32214886-218d-44a4-af02-41a9e8e5b56c
+[0mGET /administrator/index/page [32m200 [0m6.810 ms - 866[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [36m304 [0m2.280 ms - -[0m
+[0mGET /inline.2be5441addf9b233424d.bundle.js [36m304 [0m2.149 ms - -[0m
+[0mGET /main.4e4766db59362149b3fc.bundle.js [36m304 [0m3.410 ms - -[0m
+[0mGET /polyfills.9c928b25450e13525532.bundle.js [36m304 [0m4.725 ms - -[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [36m304 [0m6.046 ms - -[0m
+[0mGET /0.3a62a6bd9f179849e750.chunk.js [36m304 [0m0.764 ms - -[0m
+[0mGET /3.cef85d495b4dcf4fc9a7.chunk.js [36m304 [0m19.782 ms - -[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [36m304 [0m0.743 ms - -[0m
+[0mGET /1.7bd7c7f3ecc46ccdf01b.chunk.js [36m304 [0m0.534 ms - -[0m
+[0mGET /assets/i18n/en.json [36m304 [0m0.457 ms - -[0m
+[0mGET /fontawesome-webfont.af7ae505a9eed503f8b8.woff2?v=4.7.0 [36m304 [0m0.862 ms - -[0m
+connected to database mongodb://localhost:27017/test3
+[0mGET /api/menu [36m304 [0m219.354 ms - -[0m
+[0mGET /api/page [36m304 [0m1192.043 ms - -[0m
+req params undefined
+req params 
+[0mGET /api/menu/5b175a8dd010c63540b39996 [36m304 [0m12.895 ms - -[0m
+req params undefined
+req params 
+[0mGET /api/page/5b175a8dd010c63540b39997 [36m304 [0m4.505 ms - -[0m
+[0mGET /assets/skins/lightgray/skin.min.css [36m304 [0m0.367 ms - -[0m
+[0mGET /assets/skins/lightgray/content.min.css [36m304 [0m0.388 ms - -[0m
+[0mGET /assets/skins/lightgray/fonts/tinymce.woff [36m304 [0m0.992 ms - -[0m
+[0mGET /api/page [36m304 [0m2.924 ms - -[0m
+req params undefined
+req params 
+[0mGET /api/menu/5b176206d010c63540b39998 [32m200 [0m6.748 ms - 155[0m
+req params undefined
+req params 
+[0mGET /api/page/5b176207d010c63540b39999 [36m304 [0m4.004 ms - -[0m
+[0mGET /assets/skins/lightgray/content.min.css [36m304 [0m0.675 ms - -[0m
+req params undefined
+req params 
+[0mPUT /api/menu/5b176206d010c63540b39998 [32m200 [0m16.121 ms - 16[0m
+req params undefined
+req params 
+[0mPUT /api/page/5b176207d010c63540b39999 [33m400 [0m5.312 ms - 264[0m
+[0mGET /api/page [36m304 [0m4.151 ms - -[0m
+[0mGET /2.c5a6d11e7eaa5ee10cbd.chunk.js [36m304 [0m0.596 ms - -[0m
+null
+1
+Found Records : 1
+[0mGET /api/checkuser [36m304 [0m10.313 ms - -[0m
+[0mPOST /api/signin [33m400 [0m0.746 ms - 181[0m
+[0mGET / [36m304 [0m0.993 ms - -[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [36m304 [0m0.626 ms - -[0m
+[0mGET /inline.2be5441addf9b233424d.bundle.js [36m304 [0m0.540 ms - -[0m
+[0mGET /polyfills.9c928b25450e13525532.bundle.js [36m304 [0m0.866 ms - -[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [36m304 [0m0.497 ms - -[0m
+[0mGET /main.4e4766db59362149b3fc.bundle.js [36m304 [0m0.524 ms - -[0m
+[0mGET /administrator/ [36m304 [0m0.855 ms - -[0m
+[0mGET /3.cef85d495b4dcf4fc9a7.chunk.js [36m304 [0m0.590 ms - -[0m
+[0mGET /0.3a62a6bd9f179849e750.chunk.js [36m304 [0m0.510 ms - -[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [36m304 [0m0.416 ms - -[0m
+[0mGET /1.7bd7c7f3ecc46ccdf01b.chunk.js [36m304 [0m0.583 ms - -[0m
+[0mGET /2.c5a6d11e7eaa5ee10cbd.chunk.js [36m304 [0m0.550 ms - -[0m
+null
+0
+No Found Records.
+[0mGET /api/checkuser [32m200 [0m3.858 ms - 21[0m
+[0mGET /fontawesome-webfont.af7ae505a9eed503f8b8.woff2?v=4.7.0 [36m304 [0m0.411 ms - -[0m
+[0mPOST /api/signup [33m400 [0m0.646 ms - 181[0m
+undefined
+[0mPOST /api/signup [33m400 [0m9.656 ms - 57[0m
+undefined
+[0mPOST /api/signup [33m400 [0m1.487 ms - 57[0m

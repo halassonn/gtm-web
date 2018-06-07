@@ -1,0 +1,145 @@
+Server listen at \\.\pipe\281addcf-9e21-4485-a8e1-a492347557a9
+[0mGET / [32m200 [0m5.133 ms - 866[0m
+[0mGET /polyfills.1a5d8bfaa3b55259e369.bundle.js [32m200 [0m2.871 ms - 59684[0m
+[0mGET /inline.d54331bd02024ac6f47a.bundle.js [32m200 [0m3.597 ms - 1395[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [32m200 [0m2.934 ms - 247259[0m
+[0mGET /main.f4037e57997ebf8954dd.bundle.js [32m200 [0m4.157 ms - 585699[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [32m200 [0m4.393 ms - 937121[0m
+connected to database mongodb://localhost:27017/test3
+[0mGET /0.748c9a277992fc907b6c.chunk.js [32m200 [0m1.265 ms - 156571[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [32m200 [0m1.188 ms - 1716408[0m
+[0mGET /assets/i18n/en.json [32m200 [0m0.780 ms - 857[0m
+[0mGET /api/menu [32m200 [0m51.530 ms - 642[0m
+[0mGET /assets/images/slider2.jpg [32m200 [0m17.592 ms - 55476[0m
+[0mGET /assets/images/slider1.jpg [32m200 [0m17.793 ms - 280620[0m
+[0mGET /assets/images/slider3.jpg [32m200 [0m24.771 ms - 264935[0m
+[0mGET /assets/images/logo.png [32m200 [0m1.594 ms - 84440[0m
+[0mGET /fontawesome-webfont.af7ae505a9eed503f8b8.woff2?v=4.7.0 [32m200 [0m0.739 ms - 77160[0m
+[0mGET /api/menu [36m304 [0m980.909 ms - -[0m
+req params undefined
+req params 
+[0mGET /api/page/5b175a8dd010c63540b39997 [32m200 [0m8.141 ms - 1060[0m
+[0mGET /iisnode/index.html [32m200 [0m2.868 ms - 866[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [36m304 [0m0.860 ms - -[0m
+[0mGET /polyfills.1a5d8bfaa3b55259e369.bundle.js [36m304 [0m3.761 ms - -[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [36m304 [0m5.294 ms - -[0m
+[0mGET /inline.d54331bd02024ac6f47a.bundle.js [36m304 [0m7.538 ms - -[0m
+[0mGET /main.f4037e57997ebf8954dd.bundle.js [36m304 [0m9.528 ms - -[0m
+[0mGET /0.748c9a277992fc907b6c.chunk.js [36m304 [0m0.588 ms - -[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [36m304 [0m0.568 ms - -[0m
+[0mGET / [36m304 [0m0.472 ms - -[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [36m304 [0m0.538 ms - -[0m
+[0mGET /inline.d54331bd02024ac6f47a.bundle.js [36m304 [0m0.393 ms - -[0m
+[0mGET /polyfills.1a5d8bfaa3b55259e369.bundle.js [36m304 [0m0.484 ms - -[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [36m304 [0m0.388 ms - -[0m
+[0mGET /main.f4037e57997ebf8954dd.bundle.js [36m304 [0m0.463 ms - -[0m
+[0mGET /0.748c9a277992fc907b6c.chunk.js [36m304 [0m0.641 ms - -[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [36m304 [0m0.526 ms - -[0m
+[0mGET /assets/i18n/en.json [36m304 [0m1.241 ms - -[0m
+[0mGET /api/menu [36m304 [0m5.845 ms - -[0m
+[0mGET /api/menu [36m304 [0m3.755 ms - -[0m
+[0mGET /assets/images/slider1.jpg [36m304 [0m0.473 ms - -[0m
+[0mGET /assets/images/logo.png [36m304 [0m2.472 ms - -[0m
+[0mGET /assets/images/slider3.jpg [36m304 [0m4.848 ms - -[0m
+[0mGET /assets/images/slider2.jpg [36m304 [0m3.847 ms - -[0m
+req params undefined
+req params 
+[0mGET /fontawesome-webfont.af7ae505a9eed503f8b8.woff2?v=4.7.0 [36m304 [0m0.728 ms - -[0m
+[0mGET /api/page/5b175a8dd010c63540b39997 [36m304 [0m12.255 ms - -[0m
+[0mGET /asdf [32m200 [0m1.562 ms - 866[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [36m304 [0m0.620 ms - -[0m
+[0mGET /inline.d54331bd02024ac6f47a.bundle.js [36m304 [0m1.618 ms - -[0m
+[0mGET /polyfills.1a5d8bfaa3b55259e369.bundle.js [36m304 [0m3.045 ms - -[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [36m304 [0m4.250 ms - -[0m
+[0mGET /main.f4037e57997ebf8954dd.bundle.js [36m304 [0m1.087 ms - -[0m
+[0mGET /0.748c9a277992fc907b6c.chunk.js [36m304 [0m0.857 ms - -[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [36m304 [0m0.489 ms - -[0m
+[0mGET /horas [32m200 [0m1.960 ms - 866[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [36m304 [0m0.727 ms - -[0m
+[0mGET /polyfills.1a5d8bfaa3b55259e369.bundle.js [36m304 [0m0.957 ms - -[0m
+[0mGET /main.f4037e57997ebf8954dd.bundle.js [36m304 [0m2.554 ms - -[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [36m304 [0m2.358 ms - -[0m
+[0mGET /inline.d54331bd02024ac6f47a.bundle.js [36m304 [0m3.055 ms - -[0m
+[0mGET /0.748c9a277992fc907b6c.chunk.js [36m304 [0m0.408 ms - -[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [36m304 [0m0.397 ms - -[0m
+[0mGET /profil [32m200 [0m1.677 ms - 866[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [36m304 [0m1.315 ms - -[0m
+[0mGET /inline.d54331bd02024ac6f47a.bundle.js [36m304 [0m1.892 ms - -[0m
+[0mGET /polyfills.1a5d8bfaa3b55259e369.bundle.js [36m304 [0m4.664 ms - -[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [36m304 [0m4.052 ms - -[0m
+[0mGET /main.f4037e57997ebf8954dd.bundle.js [36m304 [0m0.462 ms - -[0m
+[0mGET /0.748c9a277992fc907b6c.chunk.js [36m304 [0m0.454 ms - -[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [36m304 [0m0.815 ms - -[0m
+[0mGET / [36m304 [0m0.651 ms - -[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [36m304 [0m1.638 ms - -[0m
+[0mGET /inline.d54331bd02024ac6f47a.bundle.js [36m304 [0m1.812 ms - -[0m
+[0mGET /polyfills.1a5d8bfaa3b55259e369.bundle.js [36m304 [0m3.812 ms - -[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [36m304 [0m2.582 ms - -[0m
+[0mGET /main.f4037e57997ebf8954dd.bundle.js [36m304 [0m3.770 ms - -[0m
+[0mGET /0.748c9a277992fc907b6c.chunk.js [36m304 [0m0.535 ms - -[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [36m304 [0m0.818 ms - -[0m
+[0mGET /assets/i18n/en.json [36m304 [0m0.598 ms - -[0m
+[0mGET /api/menu [36m304 [0m3.881 ms - -[0m
+[0mGET /assets/images/slider1.jpg [36m304 [0m1.821 ms - -[0m
+[0mGET /assets/images/slider2.jpg [36m304 [0m3.089 ms - -[0m
+[0mGET /assets/images/slider3.jpg [36m304 [0m4.250 ms - -[0m
+[0mGET /api/menu [36m304 [0m12.478 ms - -[0m
+[0mGET /assets/images/logo.png [36m304 [0m10.593 ms - -[0m
+req params undefined
+req params 
+[0mGET /fontawesome-webfont.af7ae505a9eed503f8b8.woff2?v=4.7.0 [36m304 [0m2.381 ms - -[0m
+[0mGET /api/page/5b175a8dd010c63540b39997 [36m304 [0m22.127 ms - -[0m
+[0mGET /api/menu [36m304 [0m3.770 ms - -[0m
+req params undefined
+req params 
+[0mGET /api/page/5b175a8dd010c63540b39997 [36m304 [0m4.668 ms - -[0m
+req params undefined
+req params 
+[0mGET /api/menu [36m304 [0m5.694 ms - -[0m
+[0mGET /api/page/5b176207d010c63540b39999 [32m200 [0m6.469 ms - 135[0m
+req params undefined
+req params 
+[0mGET /api/page/5b17b258d9191d41c4347d6f [32m200 [0m5.103 ms - 159[0m
+req params undefined
+req params 
+[0mGET /api/page/5b176343d010c63540b3999b [32m200 [0m5.554 ms - 3725[0m
+[0mGET /index/page/5b176343d010c63540b3999b [32m200 [0m2.094 ms - 866[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [36m304 [0m0.941 ms - -[0m
+[0mGET /inline.d54331bd02024ac6f47a.bundle.js [36m304 [0m1.249 ms - -[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [36m304 [0m2.387 ms - -[0m
+[0mGET /polyfills.1a5d8bfaa3b55259e369.bundle.js [36m304 [0m1.228 ms - -[0m
+[0mGET /main.f4037e57997ebf8954dd.bundle.js [36m304 [0m1.855 ms - -[0m
+[0mGET /0.748c9a277992fc907b6c.chunk.js [36m304 [0m0.617 ms - -[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [36m304 [0m1.092 ms - -[0m
+[0mGET /assets/i18n/en.json [36m304 [0m0.555 ms - -[0m
+[0mGET /api/menu [36m304 [0m9.031 ms - -[0m
+[0mGET /assets/images/slider1.jpg [36m304 [0m4.120 ms - -[0m
+[0mGET /assets/images/slider2.jpg [36m304 [0m5.285 ms - -[0m
+[0mGET /assets/images/slider3.jpg [36m304 [0m6.181 ms - -[0m
+[0mGET /assets/images/logo.png [36m304 [0m6.717 ms - -[0m
+req params undefined
+req params 
+[0mGET /api/menu [36m304 [0m11.776 ms - -[0m
+[0mGET /api/page/5b176343d010c63540b3999b [36m304 [0m15.682 ms - -[0m
+[0mGET /fontawesome-webfont.af7ae505a9eed503f8b8.woff2?v=4.7.0 [36m304 [0m0.435 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m9.263 ms - 95869[0m
+[0mGET /index/page/5b176343d010c63540b3999b [36m304 [0m0.862 ms - -[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [36m304 [0m0.436 ms - -[0m
+[0mGET /inline.d54331bd02024ac6f47a.bundle.js [36m304 [0m3.363 ms - -[0m
+[0mGET /polyfills.1a5d8bfaa3b55259e369.bundle.js [36m304 [0m3.512 ms - -[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [36m304 [0m2.910 ms - -[0m
+[0mGET /main.f4037e57997ebf8954dd.bundle.js [36m304 [0m3.663 ms - -[0m
+[0mGET /0.748c9a277992fc907b6c.chunk.js [36m304 [0m0.480 ms - -[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [36m304 [0m0.765 ms - -[0m
+[0mGET /assets/i18n/en.json [36m304 [0m0.594 ms - -[0m
+[0mGET /api/menu [36m304 [0m4.164 ms - -[0m
+[0mGET /assets/images/slider1.jpg [36m304 [0m1.872 ms - -[0m
+[0mGET /assets/images/slider2.jpg [36m304 [0m4.254 ms - -[0m
+[0mGET /assets/images/slider3.jpg [36m304 [0m6.344 ms - -[0m
+[0mGET /assets/images/logo.png [36m304 [0m8.330 ms - -[0m
+req params undefined
+req params 
+[0mGET /api/menu [36m304 [0m11.790 ms - -[0m
+[0mGET /api/page/5b176343d010c63540b3999b [36m304 [0m13.911 ms - -[0m
+[0mGET /fontawesome-webfont.af7ae505a9eed503f8b8.woff2?v=4.7.0 [36m304 [0m0.988 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m1.073 ms - 95869[0m

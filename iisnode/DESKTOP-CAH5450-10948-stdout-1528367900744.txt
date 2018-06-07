@@ -1,0 +1,25 @@
+Server listen at \\.\pipe\3ab52582-017f-4b05-97f2-54f47e04cc3b
+[0mGET /favicon.ico [32m200 [0m9.802 ms - 95869[0m
+[0mGET / [36m304 [0m2.096 ms - -[0m
+[0mGET /inline.d54331bd02024ac6f47a.bundle.js [32m200 [0m3.636 ms - 1395[0m
+[0mGET /polyfills.1a5d8bfaa3b55259e369.bundle.js [32m200 [0m4.200 ms - 59684[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [32m200 [0m8.979 ms - 247259[0m
+[0mGET /main.f4037e57997ebf8954dd.bundle.js [32m200 [0m3.561 ms - 585699[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [32m200 [0m4.258 ms - 937121[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [36m304 [0m0.954 ms - -[0m
+[0mGET /0.748c9a277992fc907b6c.chunk.js [36m304 [0m0.851 ms - -[0m
+[0mGET /assets/i18n/en.json [36m304 [0m1.087 ms - -[0m
+[0mGET /assets/images/slider1.jpg [36m304 [0m1.592 ms - -[0m
+[0mGET /assets/images/slider2.jpg [36m304 [0m5.769 ms - -[0m
+[0mGET /assets/images/logo.png [36m304 [0m7.951 ms - -[0m
+[0mGET /assets/images/slider3.jpg [36m304 [0m9.136 ms - -[0m
+connected to database mongodb://localhost:27017/test3
+[0mGET /api/menu [32m200 [0m315.108 ms - 642[0m
+[0mGET /fontawesome-webfont.af7ae505a9eed503f8b8.woff2?v=4.7.0 [32m200 [0m8.380 ms - 77160[0m
+[0mGET /api/menu [36m304 [0m1007.170 ms - -[0m
+req params undefined
+req params 
+[0mGET /api/page/5b175a8dd010c63540b39997 [36m304 [0m33.455 ms - -[0m
+req params undefined
+req params 
+[0mGET /api/page/5b175a8dd010c63540b39997 [36m304 [0m9.441 ms - -[0m

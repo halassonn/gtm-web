@@ -1,0 +1,46 @@
+Server listen at \\.\pipe\5e334222-4b7d-42cd-b81b-b416a2241e34
+[0mGET /inline.2be5441addf9b233424d.bundle.js [36m304 [0m4.491 ms - -[0m
+[0mGET /polyfills.9c928b25450e13525532.bundle.js [32m200 [0m17.045 ms - 59684[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [32m200 [0m10.938 ms - 247259[0m
+[0mGET /main.4e4766db59362149b3fc.bundle.js [32m200 [0m6.225 ms - 614378[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [32m200 [0m6.180 ms - 937121[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [32m200 [0m1.232 ms - 1716408[0m
+connected to database mongodb://localhost:27017/test3
+[0mGET /3.cef85d495b4dcf4fc9a7.chunk.js [32m200 [0m2.425 ms - 33796[0m
+[0mGET /0.3a62a6bd9f179849e750.chunk.js [32m200 [0m2.476 ms - 128601[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [32m206 [0m3.185 ms - 1[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [32m206 [0m1.955 ms - 408361[0m
+[0mGET /3.cef85d495b4dcf4fc9a7.chunk.js [32m206 [0m2.350 ms - 1[0m
+[0mGET /0.3a62a6bd9f179849e750.chunk.js [32m200 [0m4.642 ms - 128601[0m
+[0mGET /3.cef85d495b4dcf4fc9a7.chunk.js [32m206 [0m1.258 ms - 1373[0m
+[0mGET /administrator/ [32m200 [0m4.544 ms - 866[0m
+[0mGET /styles.21826ac9a4ffd55b6c44.bundle.css [36m304 [0m1.397 ms - -[0m
+[0mGET /scripts.6a2adf107191b1b81386.bundle.js [36m304 [0m2.264 ms - -[0m
+[0mGET /polyfills.9c928b25450e13525532.bundle.js [36m304 [0m3.546 ms - -[0m
+[0mGET /main.4e4766db59362149b3fc.bundle.js [36m304 [0m5.076 ms - -[0m
+[0mGET /inline.80c3659166f01fc13907.bundle.js [32m200 [0m9.013 ms - 1470[0m
+[0mGET /0.3a62a6bd9f179849e750.chunk.js [36m304 [0m0.825 ms - -[0m
+[0mGET /3.cef85d495b4dcf4fc9a7.chunk.js [36m304 [0m1.851 ms - -[0m
+[0mGET /hole-sky.f9eb236b3c6c54d99323.png [36m304 [0m0.570 ms - -[0m
+[0mGET /1.7bd7c7f3ecc46ccdf01b.chunk.js [32m200 [0m2.613 ms - 163316[0m
+[0mGET /2.0af9dbed50c0c5c02668.chunk.js [32m200 [0m0.977 ms - 55131[0m
+null
+0
+No Found Records.
+[0mGET /api/checkuser [36m304 [0m40.220 ms - -[0m
+[0mGET /fontawesome-webfont.af7ae505a9eed503f8b8.woff2?v=4.7.0 [32m200 [0m7.085 ms - 77160[0m
+[0mPOST /api/signup [33m400 [0m2.853 ms - 181[0m
+03ACgFB9s8j9YSV_NOAy7IVx1WHCC7ddlEWkM8TSn2hczbVPVp4PQoERRQGSebh335QsDpUMa8FS8TvT4_PxLZFLYj5jTz2Ak3Nc74oZlEyb8wDJnPTSYdWRGlkh24I9dpCdImeCi-Dr4X9XGH-zla9VqiRb3z6ArXJX6dcgQLnJm9zj_swylmp4wbubyIUDkLTTcMSbVYqjn6CIbRNzfdbeH2PNfDdyzveXLHx9I4Q0djLRvYXYMjB83_ZUOjBhzNY8I9Q9dlpopYsv19CYyyRPRhjsUJAm88zsc_FyVcnoLNhz_SFmNsHSV1XhPuAtEzpcL_naP75uAkvGmMIcCc1vFPbAjyFGHaCt9KtZalTt2QD_VxNpipNl5_Qfgt1wZqh8d2qViIyGfxdbIgAhUHQ0mxE2PXHWR7d4hJi2d7HehLG9xyan73mUTTARUfvgMX8Lwad6clHaf2
+pre save called
+salt $2a$10$jTdleU9SfFhGocjgOAd6Q.
+normal password 12345678
+hash password $2a$10$jTdleU9SfFhGocjgOAd6Q.JqOTp34ic.VW7JwivKVLXOfxOqllUMm
+step 2
+step 3
+[0mPOST /api/signup [32m200 [0m5996.661 ms - 64[0m
+[0mPUT /api/activate [33m400 [0m0.759 ms - 685[0m
+[0mPUT /api/activate [33m400 [0m0.712 ms - 685[0m
+[0mPUT /api/activate [33m400 [0m0.643 ms - 685[0m
+[0mPUT /api/activate [33m400 [0m0.585 ms - 685[0m
+03ACgFB9s_8wpSu_F552HRD0hoY89UvnlvNLPwJjyQLrXC5fzleVu6zGlz0T4ITopU6USLOHzuie0NYZqeOEYfgFAzuewGRqkJWHOBkzTSUz9caxaZsF1gV1dUhYLK20XbWnHXdCCGNbnbtn_Yz9mJ1LLx0aoYCCbjoBadlTLvIc20iijjziMKd8FKk4olGsI_HW_B_XOQNov0OiU7KT26egr0GOZZzjMqpa1dnmrnozvORFt3ilxwT0Cdm4jtnr5kYe0NJiXEEMTX0n2EgD2c36WIMNFJ7YcPYPFErYTrNJzIeovTVwrYKzBvj-eYeQLBuQO2x_wxd_pl60_M9QLNnRQPcjYWRoXO_kbFQjwNYi85XKweMWuzzw9lTdUthB6431YDJ9wcgxXZEaqUQi7PWYZAB1aQDOp08h9AHq_JkCGXiu80oz4qrBPCCSWgKf2PpRlc3V5dD2if
+[0mPUT /api/activate [32m200 [0m61.344 ms - 72[0m

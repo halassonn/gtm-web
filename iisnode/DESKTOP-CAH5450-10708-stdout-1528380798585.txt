@@ -1,0 +1,4 @@
+Server listen at \\.\pipe\02d9593e-31d6-44e5-9073-5238dcccaf1c
+[0mPOST /api/signin [33m422 [0m5.540 ms - 109[0m
+connected to database mongodb://localhost:27017/test3
+[0mPOST /api/signin [33m422 [0m1.405 ms - 109[0m

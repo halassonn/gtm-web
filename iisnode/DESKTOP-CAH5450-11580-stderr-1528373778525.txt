@@ -1,0 +1,18 @@
+TypeError: Cannot read property 'collection' of undefined
+    at checkuserisempty (C:\websites\BaseExpressSite\controllers\user_controller.js:131:32)
+    at handleReturn (C:\websites\BaseExpressSite\node_modules\express-promise-router\lib\express-promise-router.js:24:27)
+    at C:\websites\BaseExpressSite\node_modules\express-promise-router\lib\express-promise-router.js:56:9
+    at Layer.handle [as handle_request] (C:\websites\BaseExpressSite\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\websites\BaseExpressSite\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\websites\BaseExpressSite\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\websites\BaseExpressSite\node_modules\express\lib\router\layer.js:95:5)
+    at C:\websites\BaseExpressSite\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\websites\BaseExpressSite\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\websites\BaseExpressSite\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\websites\BaseExpressSite\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\websites\BaseExpressSite\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\websites\BaseExpressSite\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\websites\BaseExpressSite\node_modules\express\lib\router\index.js:317:13)
+    at C:\websites\BaseExpressSite\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\websites\BaseExpressSite\node_modules\express\lib\router\index.js:335:12)
+[object Object]
