@@ -5,24 +5,12 @@ const { validateParam, validateBody, schemas } = require ('../helper/routerHelpe
 const { validCaptcha } = require ('../helper/recaptcha');
 const passport = require('passport');
 const passportConf = require('../config/passport2');
-const SchemaValidator = require('../helper/schemavalidator');
+
 
 const passwordSignIn = passport.authenticate('local',{session:false});
 const passwordJWT = passport.authenticate('jwt',{session:false});
 const googleToken = passport.authenticate('googleToken',{session:false});
 const facebookToken = passport.authenticate('facebookToken',{session:false});
-
-
-const validateRequest = SchemaValidator(true);
-
-// generic route handler
-const genericHandler = (req, res, next) => {
-    res.json({
-        status: 'success',
-        data: req.body
-    });
-};
-
 
 router.route('/signup')
 .post( [validateBody(schemas.daftarSchema),validCaptcha()], UserController.signUp);
@@ -30,7 +18,7 @@ router.route('/signup')
 router.route('/signin')
 .post([validateBody(schemas.authSchema),validCaptcha() ],passwordSignIn,UserController.signIn);
 //.post(validateBody(schemas.authSchema),UserController.captcha,passwordSignIn,UserController.signIn);
-//.post(validateRequest)
+
 
 router.route('/oauth/google')
 .post(googleToken,UserController.googleOAuth);

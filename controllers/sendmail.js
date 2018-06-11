@@ -49,10 +49,10 @@ module.exports = {
             function (kode, user, done) {
                 console.log('step 2');
                 var smtpTransport = nodemailer.createTransport({
-                    service: 'Gmail',
+                    service: process.env.SEND_MAIL_SERVICE,
                     auth: {
-                        user: 'wolf86gtm@gmail.com',
-                        pass: 'reyhan241186'
+                        user: SEND_MAIL_ADDRESS,
+                        pass: SEND_MAIL_PASS
                     }
                 });
                 var mailOptions = {
@@ -64,12 +64,11 @@ module.exports = {
                         //'Silahkan verifikasi email dengan mengklik link berikut:</br> ' +
                        // '<a href=http://' + req.headers.host + '/api/reset/' + kode + '>Konfirmasi</a>'
                 };
-               
+                console.log('step 3')
                 smtpTransport.sendMail(mailOptions, function (err) {
                     //req.flash('SaveSuccess', 'Kode Reset Password telah dikirim ke ' + req.body.email);
                     if(err){
-                        console.log('step 3',err)
-                        return res.status(500).json({message:err});
+                        return res.status(500).json({message:"No Internet Connection"});
                     }
                     res.status(200).json({
                         message: 'Kode Reset Password telah dikirim ke ' + req.body.email

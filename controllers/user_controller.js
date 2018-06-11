@@ -1,8 +1,5 @@
 var UserModel = require('../models/users_model');
 const JWT = require('jsonwebtoken');
-const {
-    JWT_SECRET
-} = require('../config');
 const async = require('async');
 const mongoose = require('mongoose');
 const senEmail = require('./sendmail');
@@ -15,7 +12,7 @@ signToken = user => {
         sub: user.id,
         iat: new Date().getTime(), //Current Time
         exp: new Date().setDate(new Date().getDate() + 1) // current time + 1 day ahead
-    }, JWT_SECRET);
+    }, process.env.JWT_SECRET);
 }
 
 module.exports = {
@@ -102,7 +99,7 @@ module.exports = {
                     if (err) {
                         user.remove();
                         return res.status(500).json({
-                            message: err
+                            message: "No Internet Connection"
                         });
                         
                     }

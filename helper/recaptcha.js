@@ -13,7 +13,7 @@ module.exports = {
                     message: "Please select captcha first"
                 });
             }
-            const secretKey = "6LeJY10UAAAAAKtQOm0WFSmkEvHdY01UAEnItwaV";
+            const secretKey = "6LdX8F0UAAAAAIWtYHY6v4U_4cttGjIXi7WZtSEP";
             const verificationURL = `https://www.google.com/recaptcha/api/siteverify?secret=${secretKey}&response=${req.body.captcha}&remoteip=${req.connection.remoteAddress}`;
 
             const re = request(verificationURL, (error, response, body) => {
